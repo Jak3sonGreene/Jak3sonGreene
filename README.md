@@ -6,22 +6,6 @@
   <img src="https://skillicons.dev/icons?i=py,godot,html,css,github&amp;theme=dark" alt="Python, Godot, HTML, CSS, GitHub" />
 </p>
 
-<!--
-  SETUP NOTES (this comment is invisible on GitHub, delete it whenever):
-  1. Upload README.md, header.svg, divider.svg and build_header.py to your repo named Jak3sonGreene.
-     The files must sit together at the top level, or the header and dividers won't show.
-  2. To change what the header says: open build_header.py on GitHub, click the pencil icon,
-     edit NAME, GREETING or LINES at the top, and commit. The look never changes, only the words.
-  3. Optional auto-rebuild: create the file .github/workflows/build-header.yml (Add file, then
-     Create new file, and type that whole path as the name), paste in build-header.yml, and commit.
-     After that, every edit to build_header.py rebuilds header.svg by itself in about a minute.
-     Without it, run  python build_header.py  on your computer and upload the new header.svg.
-  4. Icons: edit the list after "i=" above. Add more only once you've used them, for example
-     blender, arduino, raspberrypi, js, java, c, cpp, git, vscode, linux.
-  5. Privacy: skip your school name, phone number, and exact location.
--->
-
-<p align="center"><img src="./divider.svg" width="50%" alt="" /></p>
 
 ## 🌙 About me
 
@@ -44,7 +28,6 @@ I'm Jackson, a high school student who loves building things that look cool, mak
   this section until it's back.
 -->
 
-<p align="center"><img src="./divider.svg" width="50%" alt="" /></p>
 
 ## 🚀 Projects
 
@@ -70,12 +53,8 @@ I'm just getting started, so this section is growing. Here's what's on my list:
 
 I play soccer, basketball, and ultimate frisbee, and I'm always down for a round of Super Smash Bros. I'm into engineering too, and I'm learning to build robots and make 3D models.
 
-<p align="center"><img src="./divider.svg" width="50%" alt="" /></p>
-
 ## 📬 Connect
 
 ✉️ [jackson@thegreen.es](mailto:jackson@thegreen.es)
-
-<!-- Use an email you're comfortable having public, since bots scrape profiles. A separate address just for this works well. -->
 
 <p align="center"><sub>Built after dark 🌙</sub></p>
