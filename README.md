@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Jackson Greene. Learning Python and ML, experimenting with game ideas in Godot, building startups with friends, exploring the possibilities of Python, learning robotics and 3D modeling." />
+  <img src="./header.svg" width="100%" alt="Animated night-sky header with my name and a typewriter listing what I'm learning and building" />
 </p>
 
 <p align="center">
@@ -8,12 +8,17 @@
 
 <!--
   SETUP NOTES (this comment is invisible on GitHub, delete it whenever):
-  1. Upload README.md, header.svg and divider.svg together to your repo named Jak3sonGreene.
-     The two SVG files must sit next to README.md or the header and dividers won't show.
-  2. The typewriter lines are baked into header.svg. To change them, ask Claude to regenerate it.
-  3. Icons: edit the list after "i=" above. Add more only once you've used them, for example
+  1. Upload README.md, header.svg, divider.svg and build_header.py to your repo named Jak3sonGreene.
+     The files must sit together at the top level, or the header and dividers won't show.
+  2. To change what the header says: open build_header.py on GitHub, click the pencil icon,
+     edit NAME, GREETING or LINES at the top, and commit. The look never changes, only the words.
+  3. Optional auto-rebuild: create the file .github/workflows/build-header.yml (Add file, then
+     Create new file, and type that whole path as the name), paste in build-header.yml, and commit.
+     After that, every edit to build_header.py rebuilds header.svg by itself in about a minute.
+     Without it, run  python build_header.py  on your computer and upload the new header.svg.
+  4. Icons: edit the list after "i=" above. Add more only once you've used them, for example
      blender, arduino, raspberrypi, js, java, c, cpp, git, vscode, linux.
-  4. Privacy: skip your school name, phone number, and exact location.
+  5. Privacy: skip your school name, phone number, and exact location.
 -->
 
 <p align="center"><img src="./divider.svg" width="50%" alt="" /></p>
@@ -43,7 +48,7 @@ I'm just getting started, so this section is growing. Here's what's on my list:
 
 - [ ] Finish and share my first game made in Godot
 - [ ] Train my first machine learning model in Python
-- [ ] Launch a project with my friends
+- [ ] Launch a product with my friends
 - [ ] Build a robot
 - [ ] Make a personal website with HTML and CSS
 
@@ -65,7 +70,7 @@ I play soccer, basketball, and ultimate frisbee, and I'm always down for a round
 
 ## 📬 Connect
 
-✉️ [you@example.com](mailto:you@example.com)
+✉️ [jackson@thegreen.es](mailto:jackson@thegreen.es)
 
 <!-- Use an email you're comfortable having public, since bots scrape profiles. A separate address just for this works well. -->
 
