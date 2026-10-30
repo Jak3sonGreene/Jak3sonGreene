@@ -30,8 +30,13 @@ I'm Jackson, a high school student who loves building things that look cool, mak
 ## ⭐ GitHub at a glance
 
 <p align="center">
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jak3sonGreene&show_icons=true&theme=dark)   
+  <img src="https://github-readme-stats.vercel.app/api?username=Jak3sonGreene&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak3sonGreene&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jak3sonGreene&theme=dark" alt="Streak Stats" />
+</p>   
 
 <!--
   These cards come from a free community-run service, so they stay sparse until you have repos
