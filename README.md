@@ -30,8 +30,7 @@ I'm Jackson, a high school student who loves building things that look cool, mak
 ## ⭐ GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jak3sonGreene&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;custom_title=GitHub%20Stats&amp;bg_color=0b1026&amp;title_color=ffd479&amp;text_color=cfd8ff&amp;icon_color=ffd479&amp;border_radius=12" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jak3sonGreene&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b1026&amp;title_color=ffd479&amp;text_color=cfd8ff&amp;border_radius=12" alt="Most used languages" />
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jak3sonGreene&show_icons=true&theme=dark)   
 </p>
 
 <!--
