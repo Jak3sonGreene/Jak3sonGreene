@@ -1,23 +1,25 @@
-<h1 align="center">Hi, I'm [Your Name]</h1>
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
 <p align="center">
   High school student · [Country or region] · Learning to code
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,md&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,md&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,md" alt="Languages and tools I use" />
+  </picture>
 </p>
 
 <!--
-  TIPS (this comment is invisible on GitHub, delete it whenever):
-  - Badges: swap the name in the URL (e.g. Python -> Java) or delete the lines you don't use.
-    Only list things you've actually touched. It's fine to start with just one or two.
-  - Privacy: as a student, skip your school name, phone number, and exact location.
-    A country or region and a link are plenty.
+  BEFORE YOU PUBLISH (this comment is invisible on GitHub, delete it whenever):
+  1. Find and replace "your-username" with your GitHub username. It appears in the stats cards below.
+  2. Fill in every [bracketed] placeholder.
+  3. Icons: edit the list after "i=" in the icon row above (3 places, keep them identical).
+     Separate icon names with commas. Handy ones: py, js, ts, java, c, cpp, html, css, react,
+     nodejs, git, github, vscode, linux, md, discord. Only list what you've actually used.
+  4. Privacy: as a student, skip your school name, phone number, and exact location.
 -->
 
 ---
@@ -32,6 +34,27 @@ I'm a high school student getting into programming. I enjoy [building small thin
 - 🔨 **Working on:** [a first project idea, even a tiny one]
 - 💬 **Ask me about:** [a hobby, game, or topic you know well]
 
+## GitHub at a glance
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=your-username&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;custom_title=GitHub%20Stats&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=your-username&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;custom_title=GitHub%20Stats&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=0969da" />
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;custom_title=GitHub%20Stats" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=24292f" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&amp;layout=compact&amp;hide_border=true" alt="Most used languages" />
+  </picture>
+</p>
+
+<!--
+  These cards are drawn by a free community-run service, so they stay sparse until you have
+  some repos and activity, and they occasionally go down. If one shows an error or a broken image,
+  you can just delete this whole section until it's back.
+-->
+
 ## Projects
 
 I'm just getting started, so this section is growing. Here's what's on my list:
@@ -43,7 +66,7 @@ I'm just getting started, so this section is growing. Here's what's on my list:
 
 <!--
   WHEN YOU FINISH A PROJECT:
-  1. Change "- [ ]" to "- [x]" above to check it off, or replace it with the table below.
+  1. Change "- [ ]" to "- [x]" above to check it off, or replace the list with the table below.
   2. Copy this table into the section and fill it in. Add a row for each new project.
 
   | Project | What it does | Built with |
@@ -57,6 +80,21 @@ I'm just getting started, so this section is growing. Here's what's on my list:
 
 ## Connect
 
-[Email](mailto:you@example.com) · [LinkedIn](https://www.linkedin.com/in/your-handle) · [Website](https://your-site.dev)
+<p>
+  <a href="https://www.linkedin.com/in/your-handle">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=light" />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    </picture>
+  </a>
+  <a href="mailto:you@example.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&amp;theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=gmail&amp;theme=light" />
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+    </picture>
+  </a>
+</p>
 
-<!-- Only include the links you're comfortable sharing. One is enough. -->
+<!-- Only keep the links you're comfortable sharing. One is plenty, and you can delete this section entirely. -->
